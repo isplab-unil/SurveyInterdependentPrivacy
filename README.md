@@ -5,7 +5,7 @@ It uses the [NetworkX](https://networkx.github.io/) and [python-louvain](https:/
 ## Content
 It contains the following files:
 * graph.py (program file)
-* articles_refs.db the sqlite database countaining the list of articles and their references
+* articles.db the sqlite database countaining the list of articles and their references
 * main.bib the bibtex file containing the bibliographic database of the survey
 * main.aux the aux file containing the list of articles cited in the survey
 
